@@ -1,0 +1,21 @@
+"filename", "language", "TypeScript JSX", "TypeScript", "JSON with Comments", "JSON", "XML", "JavaScript", "HTML", "comment", "blank", "total"
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/.eslintrc.cjs", "JavaScript", 0, 0, 0, 0, 0, 14, 0, 0, 1, 15
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/index.html", "HTML", 0, 0, 0, 0, 0, 0, 13, 0, 1, 14
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/package.json", "JSON", 0, 0, 0, 38, 0, 0, 0, 0, 1, 39
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/public/vite.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/components/Header.tsx", "TypeScript JSX", 13, 0, 0, 0, 0, 0, 0, 0, 2, 15
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/main.tsx", "TypeScript JSX", 11, 0, 0, 0, 0, 0, 0, 0, 2, 13
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/pages/App.tsx", "TypeScript JSX", 107, 0, 0, 0, 0, 0, 0, 7, 8, 122
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/pages/Controller/controller.tsx", "TypeScript JSX", 148, 0, 0, 0, 0, 0, 0, 8, 5, 161
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/pages/ResourceGroup/resourceGroup.tsx", "TypeScript JSX", 145, 0, 0, 0, 0, 0, 0, 5, 8, 158
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/pages/ResourceGroup/uploadDialog.tsx", "TypeScript JSX", 120, 0, 0, 0, 0, 0, 0, 0, 4, 124
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/pages/Setting/setting.tsx", "TypeScript JSX", 4, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/pages/TaskGroup/taskGroup.tsx", "TypeScript JSX", 325, 0, 0, 0, 0, 0, 0, 9, 11, 345
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/pages/TimeGroup/timeGroup.tsx", "TypeScript JSX", 4, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/routers/index.tsx", "TypeScript JSX", 69, 0, 0, 0, 0, 0, 0, 0, 5, 74
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/src/vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/tsconfig.json", "JSON with Comments", 0, 0, 21, 0, 0, 0, 0, 2, 3, 26
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/tsconfig.node.json", "JSON", 0, 0, 0, 10, 0, 0, 0, 0, 1, 11
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/uno.config.ts", "TypeScript", 0, 3, 0, 0, 0, 0, 0, 2, 1, 6
+"/Users/sanenchen/Desktop/Codes/Projects/eGZ/eGZ-broadcast/broadcast_react/vite.config.ts", "TypeScript", 0, 17, 0, 0, 0, 0, 0, 1, 2, 20
+"Total", "-", 946, 20, 21, 48, 1, 14, 13, 35, 58, 1156
